@@ -16,6 +16,8 @@
 		D7F250392C932BBA0094DDBF /* BestBrainExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F250382C932BBA0094DDBF /* BestBrainExampleTests.swift */; };
 		D7F250432C932BBA0094DDBF /* BestBrainExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F250422C932BBA0094DDBF /* BestBrainExampleUITests.swift */; };
 		D7F250452C932BBA0094DDBF /* BestBrainExampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F250442C932BBA0094DDBF /* BestBrainExampleUITestsLaunchTests.swift */; };
+		D7F250532C932FD10094DDBF /* BestBrain.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7F250512C932FCA0094DDBF /* BestBrain.xcframework */; };
+		D7F250542C932FD10094DDBF /* BestBrain.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = D7F250512C932FCA0094DDBF /* BestBrain.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +37,20 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		D7F250552C932FD10094DDBF /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				D7F250542C932FD10094DDBF /* BestBrain.xcframework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		D7F2501E2C932BB70094DDBF /* BestBrainExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BestBrainExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7F250212C932BB70094DDBF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +65,7 @@
 		D7F2503E2C932BBA0094DDBF /* BestBrainExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BestBrainExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7F250422C932BBA0094DDBF /* BestBrainExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestBrainExampleUITests.swift; sourceTree = "<group>"; };
 		D7F250442C932BBA0094DDBF /* BestBrainExampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestBrainExampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D7F250512C932FCA0094DDBF /* BestBrain.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = BestBrain.xcframework; path = ../../BestBrain.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +73,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7F250532C932FD10094DDBF /* BestBrain.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -99,6 +117,7 @@
 		D7F250202C932BB70094DDBF /* BestBrainExample */ = {
 			isa = PBXGroup;
 			children = (
+				D7F250512C932FCA0094DDBF /* BestBrain.xcframework */,
 				D7F250212C932BB70094DDBF /* AppDelegate.swift */,
 				D7F250232C932BB70094DDBF /* SceneDelegate.swift */,
 				D7F250252C932BB70094DDBF /* ViewController.swift */,
@@ -137,6 +156,7 @@
 				D7F2501A2C932BB70094DDBF /* Sources */,
 				D7F2501B2C932BB70094DDBF /* Frameworks */,
 				D7F2501C2C932BB70094DDBF /* Resources */,
+				D7F250552C932FD10094DDBF /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
