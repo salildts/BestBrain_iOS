@@ -1,0 +1,11 @@
+framework module BestBrain {
+  umbrella header "BestBrain.h"
+  export *
+
+  module * { export * }
+}
+
+module BestBrain.Swift {
+  header "BestBrain-Swift.h"
+  requires objc
+}
