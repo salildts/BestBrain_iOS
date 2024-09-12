@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		MROyxel7HCTSJU5KnPg2Sn4jYfY=
+		x7cxg40um3wz1zbXtqyJYREL1EA=
 		</data>
 		<key>BBChat.storyboardc/BestBrainMessageViewController.nib/objects-14.0+.nib</key>
 		<data>
@@ -46,19 +46,19 @@
 		</data>
 		<key>Modules/BestBrain.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		7NxY/Sah0UitnSotSv6qBURvYBw=
+		8WJhSXDNqesgfpXH4jdcZ33V8N0=
 		</data>
 		<key>Modules/BestBrain.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		naxOHFJNntAN2650TLFqqtRTDRc=
+		SegXiBYEAODmka5MMTloEKLfIS8=
 		</data>
 		<key>Modules/BestBrain.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		xi38KCuBudVPPuhGG51ZyKAd+n8=
+		4y+BznhzJe/9RW573YCK/x4dosc=
 		</data>
 		<key>Modules/BestBrain.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		kbU3+yhdIQA9QLDiaeW7teGWx4w=
+		Ix+V6seF3TG2anjPkKSdLqxuwRw=
 		</data>
 		<key>Modules/BestBrain.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -66,19 +66,19 @@
 		</data>
 		<key>Modules/BestBrain.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		kbU3+yhdIQA9QLDiaeW7teGWx4w=
+		Ix+V6seF3TG2anjPkKSdLqxuwRw=
 		</data>
 		<key>Modules/BestBrain.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9pVHdEzGMiFOQM8NTSPDqmj0ZXk=
+		4oxJiw88g9w2Zu7qEPg8wbwJBfU=
 		</data>
 		<key>Modules/BestBrain.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		xi38KCuBudVPPuhGG51ZyKAd+n8=
+		4y+BznhzJe/9RW573YCK/x4dosc=
 		</data>
 		<key>Modules/BestBrain.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		11UWrC7uiQY6zrEy+0dBEaz0llA=
+		bJJbB5hfNC5kF0l8NvS6EqzYNmo=
 		</data>
 		<key>Modules/BestBrain.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/BestBrain.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		11UWrC7uiQY6zrEy+0dBEaz0llA=
+		bJJbB5hfNC5kF0l8NvS6EqzYNmo=
 		</data>
 		<key>Modules/BestBrain.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Y9lY/DY+rD76KG2FVzqawPmQ6Gw=
+		t3wmPwWjxYW9NInJL0ijCBvKDnw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -159,7 +159,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			u1Wqwh6u0zrejWabsMeYxA1AW9JldaeNubAHGCPtxyw=
+			inG/NNE0+g81pVIS0/EQvTmcyyuCMY1YHKOwJmtQtg0=
 			</data>
 		</dict>
 		<key>BBChat.storyboardc/BestBrainMessageViewController.nib/objects-14.0+.nib</key>
@@ -222,28 +222,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HN6xvq+WlR5rm3wKvqSN3xecouIHcre5qJVQhr9WvWg=
+			ZqzaRtGRt3WyPM4kBsuo01z5cNHgE0t2fSmrUpwbMx0=
 			</data>
 		</dict>
 		<key>Modules/BestBrain.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1yei2PufsWYYgzbkNqjnN7ZYWosGSmEG6miczRCftns=
+			hgZnB3DZNtcIgVI1bbredda3XtuEUmPOSzybY4UA8IY=
 			</data>
 		</dict>
 		<key>Modules/BestBrain.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rZTk/x3HJVR53ANUzINNmJ+JlmmluSKbp3CavYAgSas=
+			Lt2FpZwmLJNxPkfaXFHBS6xH471IhpPVwY4632meO38=
 			</data>
 		</dict>
 		<key>Modules/BestBrain.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wb1JO5e/IGMFikpfwW0BvSaJQmrOibbnk3osJlMe60o=
+			S15nMArYqFVgghrZT4Po0FSgnQOGH0eCdd6c6g6PSIg=
 			</data>
 		</dict>
 		<key>Modules/BestBrain.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -257,28 +257,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wb1JO5e/IGMFikpfwW0BvSaJQmrOibbnk3osJlMe60o=
+			S15nMArYqFVgghrZT4Po0FSgnQOGH0eCdd6c6g6PSIg=
 			</data>
 		</dict>
 		<key>Modules/BestBrain.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PslyYUcdFUcjMmAddOydJAVa3qcZAOnqO7AxOElGcdE=
+			HDGsLdF+lDlIX8fK0wz2ys1FCab+Hpb7KIyXXWqlWT4=
 			</data>
 		</dict>
 		<key>Modules/BestBrain.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rZTk/x3HJVR53ANUzINNmJ+JlmmluSKbp3CavYAgSas=
+			Lt2FpZwmLJNxPkfaXFHBS6xH471IhpPVwY4632meO38=
 			</data>
 		</dict>
 		<key>Modules/BestBrain.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			unMzpkechcP4514g3anxNEBBkjjcpsGUsh2AwJwbEBA=
+			JcBY5EJhVrkh8z06kQXLjYc5ZtWG6ihHxwJhdFl4DmQ=
 			</data>
 		</dict>
 		<key>Modules/BestBrain.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -292,14 +292,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			unMzpkechcP4514g3anxNEBBkjjcpsGUsh2AwJwbEBA=
+			JcBY5EJhVrkh8z06kQXLjYc5ZtWG6ihHxwJhdFl4DmQ=
 			</data>
 		</dict>
 		<key>Modules/BestBrain.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dLPhKM6ANJRvrNbYaDsYDkY1TZV5t6Xhg1lZlrqkysU=
+			jefFczz5lkGyBysLuf02NSTyFwxBGXB3KBPQJzG4au0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

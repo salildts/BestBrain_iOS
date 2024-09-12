@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "BestBrain"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "BestBrain static framework for cognitive applications."
   s.description  = "AI based chatboat. Setup server url, Socket url, AppId, ApiKey"
   s.homepage     = "https://github.com/salildts/BestBrain_iOS"
@@ -17,13 +17,15 @@ Pod::Spec.new do |s|
   # Specify the precompiled static framework
   s.vendored_frameworks = 'BestBrain.xcframework'
 
-  # If there are dependencies, list them here (e.g., external libraries your framework relies on)
-  # s.dependency 'SomeOtherLibrary', '~> 1.2'
+  # Include resource files (e.g., nibs, images, storyboards)
+  s.resources = 'BestBrain.framework/**/*.nib'
 
-  # Example project (optional but recommended)
-  # s.testspec 'BestBrainExample' do |test|
-  #   test.source_files = "Example/Sources/**/*"
-  #   test.resources = "Example/Resources/**/*"
-  # end
+  # Alternatively, if bundling resources together
+  s.resource_bundles = {
+    'BestBrainResources' => ['BestBrain.framework/**/*.nib', 'BestBrain.framework/**/*.png', 'BestBrain.framework/**/*.storyboard', 'BestBrain.framework/**/*.ttf']
+  }
+
+  # If you need to exclude code signing from resources
+  s.exclude_files = 'BestBrain.framework/_CodeSignature'
 
 end
