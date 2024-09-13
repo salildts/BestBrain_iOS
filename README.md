@@ -1,3 +1,13 @@
+#Cocoapods Installation
+1> Add below line in your pod file
+pod 'BestBrain'
+2> Run pod install
+
+#Manual Installation
+1> download the xcframework file & drag into your project
+2> Go to porject settings > targets > General > FrameWorks, Libraries and Embedded Content > Add BestBrain.xcframework & mark as Embed & Sign
+
+#Implementation
 #Step 1
 Please import BestBrain
 
@@ -16,6 +26,5 @@ let vc = BestBrainMessageViewController.getMsgVc()
         self.navigationController?.pushViewController(vc, animated: true)
 
 
-#Manual Installation
-1> download the xcframework file & drag into your project
-2> Go to porject settings > targets > General > FrameWorks, Libraries and Embedded Content > Add BestBrain.xcframework & mark as Embed & Sign
+If you still getting error ininstallation,Go to Project Settings > Target > Build Settings  Change *User Script Sandboxing to No*, Clean & build the project again.
+
