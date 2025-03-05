@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "BestBrain"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "BestBrain static framework for cognitive applications."
   s.description  = "AI based chatboat. Setup server url, Socket url, AppId, ApiKey"
   s.homepage     = "https://github.com/salildts/BestBrain_iOS"
